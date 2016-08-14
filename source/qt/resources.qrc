@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/executables">
+        <file>resources/dprocess</file>
+    </qresource>
+</RCC>
