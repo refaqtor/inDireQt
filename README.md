@@ -1,3 +1,5 @@
+follow this at : https://gitlab.com/u/refaQtor/projects
+
 This application is an example of embedding a commandline application into the resources of a Qt application, then interacting and displaying the data from the commandline application via Qt standard model-view interface.  In this case, the application is written in D.  But, this could prove a useful technique for flexibly interface obscure languages with unique features to a graphical interface.  Wrapping functionality in a commandline application makes for a positive separation from the user interface.  And, if makes it easy to use behind a web service.
 
 (currently, a work-in-progress.  I've used this pattern successfully. But as I was cleaning private info out of this code to use as an example, I recently broke something.  It still does provide a structure for those wishing to examine the code)
